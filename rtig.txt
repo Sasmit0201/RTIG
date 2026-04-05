@@ -1,0 +1,10 @@
+The entire chassis design process was initially considered to be something very minute, but along the design process, we encountered many problems:
+We started by aiming for the 10 mark chassis.. After completing the initial design of the chassis, we talked to people, and got the suggestion to not aim for 10 marks... as the risk of toppling increases massively.
+
+We then remade the chassis, with the dimensions in mind to keep it in the 9 mark range... but encountered a problem... there wasn't enough space for the support/gripper mechanism to fit on the chassis... To counter that problem, we thought of incorporating a raised platform for our PCB board, in order to make space and as of now, it is our ultimate design.
+
+HOLES
+
+The initial hole making ( for the L clamps and all ) were done properly by considering the dimensions and all of the L clamps, and they were easy to make and replicate ( Mirror feature of Fusion) The holes were kept of the dimension 3 mm , keeping into consideration the screw and machine tolerances ( which are minimal for the laser cutter) 
+
+
